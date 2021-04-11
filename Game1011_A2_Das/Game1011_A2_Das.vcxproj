@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Game1011_A2_Das.cpp" />
+    <ClCompile Include="IntRange.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DynTempQueue.h" />
